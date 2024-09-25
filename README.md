@@ -1,3 +1,3 @@
-# Spatial Attention for Human-Centric Visual Understanding: An Information Bottleneck Method, CVIU 2024
+# Attentive Information Bottleneck - Journal Version
 
 The code is coming soon.
